@@ -12,12 +12,12 @@ Build a small **text-based quiz** in Python. You combine ideas from both section
 
 ## What you will practice
 
-| From Section 1 | From Section 2 |
-|----------------|----------------|
-| Running a `.py` script | `if` / `elif` / `else` |
-| `print` and `input()` | Comparisons (`==`, etc.) |
-| Variables and clear names | Optional: `and` / `or`, nested `if` |
-| Comments (`# ...`) | Compound assignment (`+=`, etc.) for the score |
+| From Section 1            | From Section 2                                   |
+| ------------------------- | ------------------------------------------------ |
+| Running a `.py` script  | `if` / `elif` / `else`                     |
+| `print` and `input()` | Comparisons (`==`, etc.)                       |
+| Variables and clear names | Optional:`and` / `or`, nested `if`         |
+| Comments (`# ...`)      | Compound assignment (`+=`, etc.) for the score |
 
 ---
 
