@@ -2,9 +2,10 @@
 
 ardeyda folderkan aniga leh /mrfiiqane yaan la iga taaban
 
-
 ## **my submits:**
 
 homework 01:  **done**
 
-homework 02:
+homework 02:  **done**
+
+homework 03:
