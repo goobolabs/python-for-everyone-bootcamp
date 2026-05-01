@@ -11,6 +11,7 @@ Course **assignments** are described in **`assignments/*.md`** files below. Open
 | # | File | Topics |
 |---|------|--------|
 | 1 | [`01-mini-quiz.md`](01-mini-quiz.md) | Sections 1 & 2 — variables, I/O, `if`/`elif`/`else`, comparisons, score |
+| 2 | [`02-study-log.md`](02-study-log.md) | Sections 1–5 — simple menu, list, two functions + `main`, load/save file |
 
 ---
 

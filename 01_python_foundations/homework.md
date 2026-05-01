@@ -59,4 +59,4 @@ In 5–8 sentences: What was easiest and what was hardest in Section 1? Name **o
 - [ ] Comments explain *why* where it helps, not every single line.
 - [ ] You can explain in one sentence how **order of lines** affects output.
 
-Good luck. See you in Section 2
+Good luck. See you in **Section 2: Operators and conditions**.

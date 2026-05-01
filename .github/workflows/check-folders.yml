@@ -1,0 +1,36 @@
+name: Lint File Names
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  validate-paths:
+    name: Validate File and Directory Names
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Check for trailing spaces or dots
+        run: |
+          # Detect files or directories ending with a space or a dot (incompatible with Windows/NTFS)
+          # Excludes hidden directories like .git
+          INVALID_PATHS=$(find . -not -path '*/.*' -name "* " -o -name "*. ")
+          
+          if [ -n "$INVALID_PATHS" ]; then
+            echo "ERROR: Detected file or directory names with trailing spaces or dots."
+            echo "These paths are incompatible with Windows file systems (NTFS) and will cause checkout failures."
+            echo ""
+            echo "Invalid paths found:"
+            echo "--------------------------------------------------------"
+            echo "$INVALID_PATHS"
+            echo "--------------------------------------------------------"
+            echo "Please rename these files/folders to remove trailing spaces or dots."
+            exit 1
+          else
+            echo "Validation successful: All file and directory names are cross-platform compatible."
+            exit 0
+          fi

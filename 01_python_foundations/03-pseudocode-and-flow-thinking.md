@@ -60,6 +60,6 @@ print(count)
 
 1. Write **pseudocode only** (no Python) for: read a number, multiply it by 2, print the result.
 2. Translate your pseudocode into Python and run it with **one** number you type (you may use `input` and `int` if you already peeked ahead, or hard-code a variable for this drill).
-3. Write pseudocode for: “if the score is at least 50, print pass; else print keep practicing.” (You will implement real `if` in Section 2.)
+3. Write pseudocode for: “if the score is at least 50, print pass; else print keep practicing.” (You will implement real `if` in Section 2: Operators and conditions.)
 
 When you are done, continue with `04-what-is-python.md`.
