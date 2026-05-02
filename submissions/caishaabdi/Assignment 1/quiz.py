@@ -1,5 +1,5 @@
-
-#quiz Assigment One
+# Name: Aisha Abdullahi Mohamed
+# quiz Assignment 1
 
 score = 0
 name = input("Enter Your Name:")
