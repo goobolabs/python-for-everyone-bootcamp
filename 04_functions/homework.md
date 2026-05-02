@@ -116,4 +116,4 @@ Create `scope_demo.py` that:
 - [ ] I can read and write function calls with `*args` and `**kwargs`.
 - [ ] I can identify whether a name is local or global in simple scripts.
 
-After this homework, review all six lesson files once more before moving to the next section.
+After this homework, review all six lesson files once more before **Section 5** — `05_file_handling_and_error_handling`.

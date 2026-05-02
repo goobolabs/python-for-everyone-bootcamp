@@ -143,4 +143,4 @@ Create `text_cleanup.py` that:
 - [ ] You know when **`for`** is clearer than **`while`**, and you can use **`break`** / **`continue`** on purpose, not by accident.
 - [ ] You can find **methods** on `str` and `list` when you need them (docs or `help`).
 
-Next: **Section 4 — Functions and Modules** (when it is in the course).
+Next: **Section 4** — `04_functions` (Functions and modules), then **Section 5** — `05_file_handling_and_error_handling`.
