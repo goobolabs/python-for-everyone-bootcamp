@@ -1,6 +1,6 @@
 # Assignment 2: Simple study log
 
-**Due:** Wednesday, May 20, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
+**Due:** Saturday, May 2, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
 
 **Goal:** One short program, **`study_log.py`**, that uses a little of **each** section (1–5)—nothing advanced.
 
