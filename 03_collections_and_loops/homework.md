@@ -1,25 +1,25 @@
 # Homework — Section 3: Collections, loops, and methods
 
-Complete these tasks after you finish **all** lessons, from `lists.md` through `common-methods.md`. They follow the same section order as the table below.
+Complete these tasks after you finish **all** lessons, from `01-lists.md` through `08-common-methods.md`. They follow the same section order as the table below.
 
 Submit according to your instructor’s format (files, screenshots, or a short write-up).
 
 | Assignment | Main lesson file |
 |------------|------------------|
-| 1 — List toolkit | `lists.md` |
-| 2 — Coordinates | `tuples.md` |
-| 3 — Unique words | `sets.md` |
-| 4 — Phonebook | `dictionaries.md` |
-| 5 — Iterate and slice | `for-loops.md` (uses list slicing from **Lists** too) |
-| 6 — `while` and input | `while-loops.md` |
-| 7 — `break` / `continue` | `break-continue-pass.md` |
-| 8 — String methods | `common-methods.md` |
+| 1 — List toolkit | `01-lists.md` |
+| 2 — Coordinates | `02-tuples.md` |
+| 3 — Unique words | `03-sets.md` |
+| 4 — Phonebook | `04-dictionaries.md` |
+| 5 — Iterate and slice | `05-for-loops.md` (uses list slicing from **Lists** too) |
+| 6 — `while` and input | `06-while-loops.md` |
+| 7 — `break` / `continue` | `07-break-continue-pass.md` |
+| 8 — String methods | `08-common-methods.md` |
 
 ---
 
 ## Assignment 1: List toolkit
 
-**Lesson:** `lists.md`
+**Lesson:** `01-lists.md`
 
 Create `list_toolkit.py` that:
 
@@ -35,7 +35,7 @@ Create `list_toolkit.py` that:
 
 ## Assignment 2: Coordinates (tuple + unpacking)
 
-**Lesson:** `tuples.md`
+**Lesson:** `02-tuples.md`
 
 Create `coordinates.py` that:
 
@@ -49,7 +49,7 @@ Create `coordinates.py` that:
 
 ## Assignment 3: Unique words (set)
 
-**Lesson:** `sets.md`
+**Lesson:** `03-sets.md`
 
 Create `unique_words.py` that:
 
@@ -64,7 +64,7 @@ Create `unique_words.py` that:
 
 ## Assignment 4: Phonebook (dictionary)
 
-**Lesson:** `dictionaries.md`
+**Lesson:** `04-dictionaries.md`
 
 Create `phonebook.py` that:
 
@@ -79,7 +79,7 @@ Create `phonebook.py` that:
 
 ## Assignment 5: Iterate and slice (`for` + `range` + `enumerate`)
 
-**Lesson:** `for-loops.md`
+**Lesson:** `05-for-loops.md`
 
 Create `iterate_practice.py` that:
 
@@ -95,7 +95,7 @@ Create `iterate_practice.py` that:
 
 ## Assignment 6: `while` and user input
 
-**Lesson:** `while-loops.md`
+**Lesson:** `06-while-loops.md`
 
 Create `while_input.py` that:
 
@@ -109,7 +109,7 @@ Create `while_input.py` that:
 
 ## Assignment 7: `break` and `continue`
 
-**Lesson:** `break-continue-pass.md`
+**Lesson:** `07-break-continue-pass.md`
 
 Create `loop_control.py` that:
 
@@ -123,7 +123,7 @@ Create `loop_control.py` that:
 
 ## Assignment 8: String and list methods
 
-**Lesson:** `common-methods.md`
+**Lesson:** `08-common-methods.md`
 
 Create `text_cleanup.py` that:
 
@@ -143,4 +143,4 @@ Create `text_cleanup.py` that:
 - [ ] You know when **`for`** is clearer than **`while`**, and you can use **`break`** / **`continue`** on purpose, not by accident.
 - [ ] You can find **methods** on `str` and `list` when you need them (docs or `help`).
 
-Next: **Section 4 — Functions and Modules** (when it is in the course).
+Next: **Section 4** — `04_functions` (Functions and modules), then **Section 5** — `05_file_handling_and_error_handling`.

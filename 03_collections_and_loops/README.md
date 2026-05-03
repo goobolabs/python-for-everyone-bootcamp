@@ -21,17 +21,17 @@ By the end of this section, you will be able to:
 
 | Order | Topic | File |
 |------:|-------|------|
-| 1 | Lists | `lists.md` |
-| 2 | Tuples | `tuples.md` |
-| 3 | Sets | `sets.md` |
-| 4 | Dictionaries | `dictionaries.md` |
-| 5 | `for` loops (basics + `enumerate` / dict patterns) | `for-loops.md` |
-| 6 | `while` loops | `while-loops.md` |
-| 7 | `break`, `continue`, `pass` | `break-continue-pass.md` |
-| 8 | Common methods | `common-methods.md` |
+| 1 | Lists | `01-lists.md` |
+| 2 | Tuples | `02-tuples.md` |
+| 3 | Sets | `03-sets.md` |
+| 4 | Dictionaries | `04-dictionaries.md` |
+| 5 | `for` loops (basics + `enumerate` / dict patterns) | `05-for-loops.md` |
+| 6 | `while` loops | `06-while-loops.md` |
+| 7 | `break`, `continue`, `pass` | `07-break-continue-pass.md` |
+| 8 | Common methods | `08-common-methods.md` |
 
 ## Prerequisites
 
 Sections 1 and 2: variables, types, I/O, operators, and `if` / `elif` / `else` (this section does **not** require prior `for` or `while` from Section 2).
 
-Start with `lists.md`.
+Start with `01-lists.md`.
