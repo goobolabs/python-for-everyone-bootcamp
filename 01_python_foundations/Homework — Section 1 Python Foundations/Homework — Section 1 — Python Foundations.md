@@ -127,8 +127,8 @@ Writing a program that asks the user two questions, then prints a friendly messa
 A variable is like a labeled box. You put a value inside the box and give it a name. Later you can use that name to get the value back out.
 
 ```python
-name = "Sara"
-# The box is called "name" and it holds the text "Sara"
+name = "Alikey"
+# The box is called "name" and it holds the text "Alikey"
 ```
 
 **What is `input()`?**
@@ -143,8 +143,8 @@ name = input("What is your first name? ")
 In Python, `+` can join two pieces of text together. This is called concatenation.
 
 ```python
-print("Hello " + "Sara")
-# Output: Hello Sara
+print("Hello " + "Alikey")
+# Output: Hello Alikey
 ```
 
 ---
@@ -195,9 +195,9 @@ python intro.py
 Type your answers when Python asks:
 
 ```
-What is your first name? Sara
+What is your first name? Alikey
 What is your favorite color? blue
-Hello Sara! Your favorite color is blue.
+Hello Alikey! Your favorite color is blue.
 ```
 
 **Deliverable:** `intro.py` + example run with sample input/output.
@@ -386,7 +386,7 @@ Save a new file as `pseudocode_practice.py`.
 # --- PYTHON CODE ---
 
 # Step 1 and 2: Store two pieces of text in variables
-person = "Sara"
+person = "Ali Omar"
 city = "Mogadishu"
 
 # Step 3: Print a sentence using the name
@@ -402,7 +402,7 @@ print("They live in " + city + ".")
 
 | Line | Code | What it does |
 |------|------|-------------|
-| `person = "Sara"` | Creates a string variable called `person` holding the text `"Sara"` |
+| `person = "Alikey"` | Creates a string variable called `person` holding the text `"Alikey"` |
 | `city = "Mogadishu"` | Creates a string variable called `city` holding `"Mogadishu"` |
 | `print("The person's name is " + person + ".")` | Joins three pieces of text and prints the result |
 | `print("They live in " + city + ".")` | Does the same for the second sentence |
@@ -418,7 +418,7 @@ python pseudocode_practice.py
 **Expected output:**
 
 ```
-The person's name is Sara.
+The person's name is Alikey.
 They live in Mogadishu.
 ```
 
@@ -509,7 +509,7 @@ print("Is it sunny?", is_sunny)
 # Step 4: Print a sentence using the city
 
 # --- PYTHON CODE ---
-person = "Sara"
+person = "Alikey"
 city = "Mogadishu"
 
 print("The person's name is " + person + ".")

@@ -1,4 +1,5 @@
-# types_practice.py
+#  Assignment 4: Types Practice 
+# In this assignment, you will practice working with different data types in Python. You will create variables of different types and print them out along with their types.
 
 # One variable of each type
 age = 25
