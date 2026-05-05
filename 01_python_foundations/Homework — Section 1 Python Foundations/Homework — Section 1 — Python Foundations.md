@@ -1,5 +1,7 @@
 # Section 1: Python Foundations — Complete Study Guide
 
+## Author: [Ali Omar](https://github.com/fernandodominguez)
+
 > **Who is this for?** Complete beginners. Every step is explained in plain language.
 > No experience needed — just follow along one step at a time.
 
