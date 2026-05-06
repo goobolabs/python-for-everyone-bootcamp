@@ -2,17 +2,17 @@
 
 **Due:** Wednesday, April 22, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
 
-**Goal:** One runnable program that uses variables, `input`/`print`, and branching—covering the core outcomes of Sections 1 and 2.
+**Goal:** One runnable program that uses variables, `input`/`print`, and **conditions** (`if` / `elif` / `else`)—covering the core outcomes of Sections 1 and 2.
 
-**Sections covered:** **Section 1 — Python Foundations** and **Section 2 — Control Flow**
+**Sections covered:** **Section 1 — Python Foundations** and **Section 2 — Operators and conditions**
 
-Build a small **text-based quiz** in Python. You combine ideas from both sections: variables, input and output, strings and numbers, comments, then branching and comparisons.
+Build a small **text-based quiz** in Python. You combine ideas from both sections: variables, input and output, strings and numbers, comments, then **conditions** and **comparisons**.
 
 ---
 
 ## What you will practice
 
-| From Section 1 | From Section 2 |
+| From Section 1 | From Section 2 (operators & conditions) |
 |----------------|----------------|
 | Running a `.py` script | `if` / `elif` / `else` |
 | `print` and `input()` | Comparisons (`==`, etc.) |

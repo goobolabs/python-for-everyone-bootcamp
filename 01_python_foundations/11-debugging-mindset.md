@@ -53,4 +53,4 @@ NameError: name 'mesage' is not defined
 
 ---
 
-**End of Section 1 lessons.** Complete `homework.md` before starting Section 2: Control Flow.
+**End of Section 1 lessons.** Complete `homework.md` before starting **Section 2: Operators and conditions** (`02_operators_and_conditions/`).

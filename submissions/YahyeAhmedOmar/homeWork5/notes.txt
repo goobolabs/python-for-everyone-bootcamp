@@ -1,0 +1,3 @@
+Daily Journal
+Today I practiced Python.
+I learned about append mode.
