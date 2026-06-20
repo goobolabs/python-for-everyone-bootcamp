@@ -39,8 +39,9 @@ LIBRARY_MANAGEMENT/
 
 Open a terminal and run:
 
- bash
+```bash
 python main.py
+```
 
 
 ## Menu
