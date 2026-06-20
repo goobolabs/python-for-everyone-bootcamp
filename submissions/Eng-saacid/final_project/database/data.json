@@ -1,0 +1,103 @@
+{
+    "students": [
+        {
+            "id": "ST001",
+            "name": "saacid",
+            "age": "23",
+            "enrolled_courses": [
+                "CR001"
+            ]
+        },
+        {
+            "id": "ST002",
+            "name": "farxaan",
+            "age": "20",
+            "enrolled_courses": [
+                "CR003",
+                "CR001"
+            ]
+        },
+        {
+            "id": "ST003",
+            "name": "suheyb",
+            "age": "25"
+        }
+    ],
+    "teachers": [
+        {
+            "id": "TC001",
+            "name": "Eng saacid",
+            "subject": "pythone"
+        },
+        {
+            "id": "TC002",
+            "name": "abdi xakiim",
+            "subject": "pythics, math"
+        },
+        {
+            "id": "TC003",
+            "name": "abdullahi",
+            "subject": "pythics"
+        }
+    ],
+    "courses": [
+        {
+            "id": "CR001",
+            "title": "pyhone",
+            "duration": "2hrs",
+            "teacher_id": "TC001"
+        },
+        {
+            "id": "CR002",
+            "title": "pythics",
+            "duration": "1hrs",
+            "teacher_id": "TC003"
+        },
+        {
+            "id": "CR003",
+            "title": "math",
+            "duration": "4hrs",
+            "teacher_id": "TC002"
+        }
+    ],
+    "grades": [
+        {
+            "student_id": "ST001",
+            "course_id": "CR001",
+            "grade": 75.5,
+            "letter": "B"
+        },
+        {
+            "student_id": "ST002",
+            "course_id": "CR003",
+            "grade": 85.5,
+            "letter": "A"
+        },
+        {
+            "student_id": "ST002",
+            "course_id": "CR001",
+            "grade": 76.4,
+            "letter": "B"
+        }
+    ],
+    "users": [
+        {
+            "id": "U001",
+            "username": "admin",
+            "password": "1234",
+            "role": "admin"
+        },
+        {
+            "id": "U002",
+            "username": "teacher1",
+            "password": "1111",
+            "role": "teacher"
+        },
+        {
+            "id": "U003",
+            "username": "abdi xakiim",
+            "password": "1212",
+            "role": "student"
+        }
+    ]
+}
