@@ -1,0 +1,4 @@
+id,name,model,year,price_per_day,is_rented
+1,Toyota S3192,Toyota,2012,23.0,False
+2,Tesla 101,Tesla,2026,11.0,False
+3,Mahindra,India,2008,29.0,False

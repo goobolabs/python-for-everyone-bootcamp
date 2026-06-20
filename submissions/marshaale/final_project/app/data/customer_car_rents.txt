@@ -1,0 +1,1 @@
+id,car_id,customer_id,base_price,num_of_days,payment_type,status
