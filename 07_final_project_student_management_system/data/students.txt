@@ -1,0 +1,2 @@
+# Columns: pipe-separated rows after the header line.
+id|name|grades

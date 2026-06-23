@@ -9,7 +9,7 @@ A **computer** executes very simple operations extremely fast. Most programmers 
 
 Important ideas for beginners:
 
-- **Order matters.** Code runs **sequentially** unless something (like a loop or `if`) changes the flow (you learn that in Section 2).
+- **Order matters.** Code runs **sequentially** unless something (like an `if` in **Section 2**, or a **loop** in **Section 3**) changes the flow.
 - **State** means “what values are stored now?” Variables remember values between lines.
 - **Output** appears when your code **asks** for it (e.g. `print`) or writes to a file—not every line automatically shows on screen.
 

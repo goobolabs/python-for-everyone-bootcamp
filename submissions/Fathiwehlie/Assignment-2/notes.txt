@@ -1,0 +1,4 @@
+This is a sample note.
+Practice writing functions  , Learn how file handling works, Understand if/elif/else conditions
+asc
+Python for every one bootcamp
