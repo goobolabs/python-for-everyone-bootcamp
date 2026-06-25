@@ -38,8 +38,6 @@ def main():
    #section 5 & error handling
 
 
-## Khadka 40 wixii ka dambeeya...
-
 #def load_notes(path):
     try:
         with open(path, "r", encoding="utf-8") as f:
