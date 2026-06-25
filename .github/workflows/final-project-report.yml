@@ -1,0 +1,40 @@
+name: Final Project Report
+
+# Mark PR la merge-gareeyo (push to main) waxa si toos ah loo cusbooneysiiyaa
+# warbixinta ardayda gudbisay final project-ka. Sidoo kale waa la qaadi karaa
+# gacanta (workflow_dispatch).
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "submissions/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generate-report:
+    name: Soo saar warbixinta final project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Taariikhda oo dhan si git log uu u helo qoraaga/PR-yada
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate report
+        run: python scripts/generate_final_report.py
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: final-project-report
+          path: submissions/FINAL_PROJECT_REPORT.md
