@@ -1,0 +1,12 @@
+# Store Manager — products data
+id|name|category|price|quantity|supplier
+# Store Manager — products data
+id|name|category|price|quantity|supplier
+1|USB-C Cable 2m|Electronics|4.99|30|TechSupply Co.
+2|Screen Protector|Electronics|2.50|4|ShieldGlass Ltd.
+3|Phone Case iPhone 14|Accessories|8.00|15|CaseWorld
+4|Wireless Earbuds|Electronics|35.00|7|SoundPro
+5|Power Bank 10000mAh|Electronics|22.99|3|PowerMax
+6|Tempered Glass S23|Electronics|3.00|20|ShieldGlass Ltd.
+7|Sim Card Tray Tool|Tools|1.25|50|FixIt Store
+8|Charging Adapter EU|Accessories|6.50|12|TechSupply Co.
