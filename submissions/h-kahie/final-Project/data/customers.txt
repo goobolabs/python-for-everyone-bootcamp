@@ -1,0 +1,4 @@
+Columns: pipe-separated rows after the header line
+id|name|phone|district|category|barrels|bill
+CW001|Hassan|0636548795|Wadajir|house|30|24.00
+CW002|Kamaal Abdi|098765|Ex-ka|hotel|60|48.00
