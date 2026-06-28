@@ -1,0 +1,32 @@
+# --- MAXAMUD ACADEMY: Nidaamka Hubinta Dhulka ---
+
+print("------------------------------------------")
+print("   NIDAAMKA DIWAANGELINTA DHULKA (BETA)   ")
+print("------------------------------------------")
+
+# 1. ururinta xogta
+magaca_mulkiilaha = input("Qor magaca mulkiilaha: ")
+goobta = input("Halkee ayuu dhulku ku yaallaa? ")
+qiimaha = int(input("Immisa dollar ($) ayuu joogaa? "))
+
+# 2. Xisaabinta Canshuurta (5%)
+canshuur = qiimaha * 0.06
+Goobta
+
+# 3. Go'aan qaadashada (Logic)
+# Haddii dhulku ka qaalisan yahay $50,000, waa dhul heer sare ah
+if qiimaha > 50000:
+    nooca_dhulka = "Dhul Heer Sare ah (Premium)"
+else:
+    nooca_dhulka = "Dhul Caadi ah (Standard)"
+
+# 4. Soo saarista Natiijada
+print("\n========== WARBIXINTA DHULKA ==========")
+print(f"Mulkiilaha: {magaca_mulkiilaha}")
+print(f"Goobta:     {goobta}")
+print(f"Nooca:      {nooca_dhulka}")
+print(f"Qiimaha:    ${qiimaha}")
+print(f"Canshuurta: ${canshuur}")
+print("=======================================")
+
+print("\nXogtan waxaa loo diyaariyay in loo wareejiyo Blockchain-ka.")

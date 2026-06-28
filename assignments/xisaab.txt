@@ -1,0 +1,4 @@
+print("ku soo dhawaada maxamud")
+print("cali Maxamed salaad xisen")
+10("200 ku dhufo")
+print("10 200 intaas")
