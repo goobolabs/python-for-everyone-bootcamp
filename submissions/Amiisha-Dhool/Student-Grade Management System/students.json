@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "1110",
+        "name": "amiisha dhool",
+        "age": 21,
+        "gender": "female",
+        "math": 0,
+        "english": 0,
+        "science": 0,
+        "programming": 0,
+        "average": 0,
+        "grade": "N/A"
+    },
+    {
+        "student_id": "0001",
+        "name": "nicima",
+        "age": 55,
+        "gender": "f",
+        "math": 0,
+        "english": 0,
+        "science": 0,
+        "programming": 0,
+        "average": 0,
+        "grade": "N/A"
+    }
+]
