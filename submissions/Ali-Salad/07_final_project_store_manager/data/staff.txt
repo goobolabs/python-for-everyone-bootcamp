@@ -1,0 +1,6 @@
+# Store Manager — staff data
+id|name|role|salary|phone
+1|Ali Salad|manager|900.00|+252612000001
+2|Faadumo Hassan|cashier|500.00|+252612000002
+3|Cabdi Warsame|stock_clerk|450.00|
+4|Hodan Yusuf|supervisor|700.00|+252612000004
