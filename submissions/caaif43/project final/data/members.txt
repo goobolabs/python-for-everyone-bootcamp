@@ -1,0 +1,4 @@
+# Gym Members
+id|member_name|membership_type
+1|Ahmed|Premium
+2|Asha|Standard
